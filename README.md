@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/M-Nezir/M-Nezir/output/snake.svg" alt="Snake animation" />
+
+###
